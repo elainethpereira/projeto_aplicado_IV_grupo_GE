@@ -1,4 +1,4 @@
-# Estudo sobre Séries Temporais e Machine Learning para a Identificação e Redução de Emissões de Gases de Efeito no Brasil
+# Estudo sobre Séries Temporais e Machine Learning para a Identificação e Redução de Emissões de Gases de Efeito Estufa no Brasil
 
 
 ## Descrição do Projeto
